@@ -2,6 +2,20 @@
 
   <a href="https://www.linkedin.com/in/muhibjabbar/">Data Analyst Professional </a>
 
+Data Analyst / BI / SQL / Power BI Portfolio
+
+## About Me
+I am building projects in Power BI, SQL Server, Excel, and data analytics, with a focus on dashboards, reporting, ETL, and business insights.
+
+## Skills
+- Power BI
+- SQL Server
+- Excel
+- Python
+- ETL
+- Data Cleaning
+- Dashboard Design
+
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>End-to-end SQL Server Data Warehouse for NHS Accident & Emergency (A&E) performance analysis.</b>
