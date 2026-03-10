@@ -1,6 +1,5 @@
 <h1>Hi, I'm Muhib Jabbar! <br/><a href="https://github.com/MuhibJabbar"></a> 
 
-  <a href="https://www.linkedin.com/in/muhibjabbar/"> Data Analyst / BI / SQL / Power BI Portfolio </a>
 
 <h2>I am building projects in Power BI, SQL Server, Excel, and data analytics, with a focus on dashboards, reporting, ETL, and business insights. </h2>
 
@@ -33,7 +32,7 @@
 - <b>Establish a modern data warehouse that centralises sales data, enabling advanced analytics and informed business decisions.</b>
   - [Data Warehouse](https://github.com/MuhibJabbar/Data-Warehouse-Project)
 - <b>This project presents an end-to-end Supply Chain & Logistics Analytics Dashboard built using Power BI.</b>
-  - [Supply Chain](https://github.com/MuhibJabbar/PowerBi-Supply-Chain-and-Logistics-Dashboard)
+  - [Supply Chain Dashboard](https://github.com/MuhibJabbar/PowerBi-Supply-Chain-and-Logistics-Dashboard)
 
 <h2> 🤳 Connect with me:</h2>
 
