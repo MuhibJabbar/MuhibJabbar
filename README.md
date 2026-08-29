@@ -24,7 +24,8 @@
 
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
-
+- <b>AdventureWorksDW2022 Sales Analytics</b>
+- https://github.com/MuhibJabbar/AdventureWorksDW-SQL-Analysis?utm_source=chatgpt.com
 - <b>End-to-end SQL Server Data Warehouse for NHS Accident & Emergency (A&E) performance analysis.</b>
   - [NHS A&E Analysis](https://github.com/MuhibJabbar/NHS-A-E-Analytics-Project-December-2025)
 - <b>SQL Server project covering business-driven sales analyses using aggregations, window functions, CTEs, and time-based insights</b>
